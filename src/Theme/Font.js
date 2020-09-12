@@ -36,6 +36,16 @@ const size={
   16: ResponsiveSize(2),
   18: ResponsiveSize(2.3),
   20: ResponsiveSize(2.5),
+  21: ResponsiveSize(2.6),
+  22: ResponsiveSize(2.8),
+  23: ResponsiveSize(2.9),
+  24: ResponsiveSize(3),
+  25: ResponsiveSize(3.2),
+  26: ResponsiveSize(3.3),
+  27: ResponsiveSize(3.4),
+  28: ResponsiveSize(3.5),
+  29: ResponsiveSize(3.6),
+  30: ResponsiveSize(3.8),
 }
 
 export default {

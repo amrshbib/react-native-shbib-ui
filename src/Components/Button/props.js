@@ -39,7 +39,7 @@ export default props=(Component) => {
     titleColor: Colors.white,
     buttonSize: 120,
     titleSize: Font.size[18],
-    activeOpacity: 1
+    activeOpacity: 0.5
   };
   PropsInit(Component,propTypes,defaultProps)
 }
